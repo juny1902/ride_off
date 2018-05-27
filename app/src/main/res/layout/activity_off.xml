@@ -113,10 +113,7 @@
                 android:textAlignment="center"
                 app:layout_constraintTop_toTopOf="parent"
                 tools:layout_editor_absoluteX="289dp" />
-
-
         </android.support.constraint.ConstraintLayout>
-
 
     </FrameLayout>
 
