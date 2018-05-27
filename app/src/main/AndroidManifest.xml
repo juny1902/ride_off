@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".TayoActivity" />
-        <activity android:name=".OffActivity"></activity>
+        <activity android:name=".OffActivity">
+        </activity>
     </application>
 
 </manifest>
